@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tw.crud.post.service.PostServiceTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2023-04-10T11:53:57" hostname="DESKTOP-BFNHOD6" time="0.128">
+  <properties/>
+  <testcase name="shouldReadPost()" classname="com.tw.crud.post.service.PostServiceTest" time="0.092"/>
+  <testcase name="shouldUpdatePost()" classname="com.tw.crud.post.service.PostServiceTest" time="0.004"/>
+  <testcase name="shouldThrowExceptionWhenIdIsNotPresentInDB()" classname="com.tw.crud.post.service.PostServiceTest" time="0.002"/>
+  <testcase name="shouldThrowExceptionWhenPostIsNotPresentInDB()" classname="com.tw.crud.post.service.PostServiceTest" time="0.001"/>
+  <testcase name="shouldNotCreatePostWhenAuthorUsernameIsEmptyString()" classname="com.tw.crud.post.service.PostServiceTest" time="0.004"/>
+  <testcase name="shouldNotCreatePostWhenContentIsEmptyString()" classname="com.tw.crud.post.service.PostServiceTest" time="0.002"/>
+  <testcase name="shouldCreatePost()" classname="com.tw.crud.post.service.PostServiceTest" time="0.003"/>
+  <testcase name="shouldDeletePost()" classname="com.tw.crud.post.service.PostServiceTest" time="0.005"/>
+  <testcase name="shouldNotCreatePostWhenAudienceTypeIsEmptyString()" classname="com.tw.crud.post.service.PostServiceTest" time="0.002"/>
+  <testcase name="shouldNotCreatePostWhenAuthorNameIsEmptyString()" classname="com.tw.crud.post.service.PostServiceTest" time="0.003"/>
+  <testcase name="shouldThrowExceptionWhenIdIsLessThanOrEqualToZero()" classname="com.tw.crud.post.service.PostServiceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

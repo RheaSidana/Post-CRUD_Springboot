@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tw.crud.comment.service.CommentServiceTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-04-10T11:53:56" hostname="DESKTOP-BFNHOD6" time="1.063">
+  <properties/>
+  <testcase name="shouldUpdateComment()" classname="com.tw.crud.comment.service.CommentServiceTest" time="0.964"/>
+  <testcase name="shouldNotUpdateWhenPostNotInDB()" classname="com.tw.crud.comment.service.CommentServiceTest" time="0.003"/>
+  <testcase name="shouldNotCreateCommentWhenFieldIsEmpty()" classname="com.tw.crud.comment.service.CommentServiceTest" time="0.002"/>
+  <testcase name="shouldDeleteComment()" classname="com.tw.crud.comment.service.CommentServiceTest" time="0.004"/>
+  <testcase name="shouldNotReadCommentsWhenPostIdIsInvalid()" classname="com.tw.crud.comment.service.CommentServiceTest" time="0.003"/>
+  <testcase name="shouldReadComment()" classname="com.tw.crud.comment.service.CommentServiceTest" time="0.077"/>
+  <testcase name="shouldNotCreateCommentWhenPostIdIsInvalid()" classname="com.tw.crud.comment.service.CommentServiceTest" time="0.002"/>
+  <testcase name="shouldCreateComment()" classname="com.tw.crud.comment.service.CommentServiceTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
