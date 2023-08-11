@@ -1,5 +1,7 @@
 # Post-CRUD_Springboot
 
+<p>outlines the endpoints for a social media platform, offering functionality to create, read, update, and delete posts and comments. Developers can interact with these APIs to seamlessly manage and interact with posts and comments within the platform.</p>
+
 <h1>Installation</h1>
 
 <h3>1. Clone the Repository</h3>
