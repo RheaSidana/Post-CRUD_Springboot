@@ -19,6 +19,8 @@ cd Post-CRUD_Springboot
 ```
 
 <h3>3. PostgreSQL </h3>
+<h4>Edit the username and password details in the "build.gradle" file and "application.yml" file</h4>
+</br></br>
 <h4>Create the db</h4>
 
 ```
@@ -50,3 +52,4 @@ create database post;
 ```
 
 <h3>6. API's </h3>
+<a href="https://documenter.getpostman.com/view/28378586/2s9Xy5Kpgq">Postman Doc</a>
